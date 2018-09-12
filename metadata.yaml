@@ -1,11 +1,16 @@
 _repo: The-Captain-s-Story-or-The-Disobedient-Son_51188
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Martin, William S.
     gutenberg_agent_id: '46282'
     url: http://www.gutenberg.org/2009/agents/46282
+covers:
+- cover_type: archival
+  image_path: 51188-rst/images/img-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51188#The-Captain-s-Story-or-The-Disobedient-Son
 gutenberg_issued: '2016-02-11'
 gutenberg_type: Text
 identifiers:
