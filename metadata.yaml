@@ -1,0 +1,27 @@
+_repo: The-Captain-s-Story-or-The-Disobedient-Son_51188
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Martin, William S.
+    gutenberg_agent_id: '46282'
+    url: http://www.gutenberg.org/2009/agents/46282
+description: ''
+gutenberg_issued: '2016-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Obedience -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- GITenberg
+title: The Captain's Story; or, The Disobedient Son
+url: http://www.gutenberg.org/ebooks/51188
